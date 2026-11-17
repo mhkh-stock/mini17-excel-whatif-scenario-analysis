@@ -1,7 +1,6 @@
 # Mini #17 — Excel What-If & Scenario Analysis Pack
 
-**Status:** built and verified (17 Nov 2026). Not yet published —
-publishing is handled by the parent run.
+**Status:** built, verified and published (17 Nov 2026) — https://github.com/mhkh-stock/mini17-excel-whatif-scenario-analysis
 
 **SAMPLE / DEMO data only.** Fictional shop, fictional numbers.
 Never claimed as real client or real business data.
@@ -124,5 +123,4 @@ skips the value checks and says so instead of faking them.
 
 ## Published
 
-Not yet published — the parent run handles GitHub publishing.
-Planned repo: `mini17-excel-whatif-scenario-analysis`.
+Live at https://github.com/mhkh-stock/mini17-excel-whatif-scenario-analysis (17 Nov 2026).
