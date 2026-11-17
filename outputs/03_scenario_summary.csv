@@ -1,0 +1,4 @@
+scenario,unit_price_pkr,unit_cost_pkr,volume_units,fixed_costs_pkr,monthly_profit_pkr
+Pessimistic,4000,2900,900,1600000,-610000
+Base,4500,2700,1200,1500000,660000
+Optimistic,5000,2500,1500,1400000,2350000

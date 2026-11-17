@@ -1,0 +1,11 @@
+measure,value
+goalseek_target_profit_pkr,1000000
+goalseek_price_pkr,4783.33
+profit_at_goalseek_price_pkr,1000000
+breakeven_price_pkr,3950.0
+breakeven_units_exact,833.33
+breakeven_units_whole,834
+breakeven_revenue_exact_pkr,3750000
+breakeven_revenue_whole_pkr,3753000
+margin_of_safety_units,366.67
+margin_of_safety_pct,30.56
